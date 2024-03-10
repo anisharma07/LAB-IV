@@ -1,0 +1,26 @@
+[
+  {
+    "name": "John",
+    "dob": "2003",
+    "college": {
+      "name": "NIT'H",
+      "degree": "Bachelor's of technology"
+    }
+  },
+  {
+    "name": "Alice",
+    "dob": "1995",
+    "college": {
+      "name": "Anu college",
+      "degree": "Bachelor's of science"
+    }
+  },
+  {
+    "Name": "Jack",
+    "dob": "2000",
+    "college": {
+      "name": "MIT",
+      "degree": "Masters of technology"
+    }
+  }
+]
